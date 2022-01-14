@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Restik\obj\Debug\Restik.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Restik\obj\Debug\Restik.Form1.resources
+C:\Users\Admin\source\repos\Restik\obj\Debug\Restik.Properties.Resources.resources
+C:\Users\Admin\source\repos\Restik\obj\Debug\Restik.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Restik\obj\Debug\Restik.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Restik\bin\Debug\Restik.exe.config
+C:\Users\Admin\source\repos\Restik\bin\Debug\Restik.exe
+C:\Users\Admin\source\repos\Restik\bin\Debug\Restik.pdb
+C:\Users\Admin\source\repos\Restik\obj\Debug\Restik.exe
+C:\Users\Admin\source\repos\Restik\obj\Debug\Restik.pdb
